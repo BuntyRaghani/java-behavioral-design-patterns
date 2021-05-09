@@ -8,3 +8,4 @@ Behavioural patterns are all about the interaction or communication between the 
 | ------ | ------ |
 | Memento Pattern | memento-pattern |
 | State Pattern | state-pattern |
+| Iterator Pattern | iterator-pattern |
