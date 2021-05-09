@@ -7,3 +7,4 @@ Behavioural patterns are all about the interaction or communication between the 
 | Pattern Name | Maven Module Name |
 | ------ | ------ |
 | Memento Pattern | memento-pattern |
+| State Pattern | state-pattern |
