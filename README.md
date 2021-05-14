@@ -11,3 +11,4 @@ Behavioural patterns are all about the interaction or communication between the 
 | Iterator Pattern | iterator-pattern |
 | Strategy Pattern | strategy-pattern |
 | Template Method Pattern | template-method-pattern |
+| Command Pattern | command-pattern |
