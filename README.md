@@ -12,3 +12,4 @@ Behavioural patterns are all about the interaction or communication between the 
 | Strategy Pattern | strategy-pattern |
 | Template Method Pattern | template-method-pattern |
 | Command Pattern | command-pattern |
+| Observer Pattern | observer-pattern |

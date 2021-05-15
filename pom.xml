@@ -16,6 +16,7 @@
         <module>strategy-pattern</module>
         <module>template-method-pattern</module>
         <module>command-pattern</module>
+        <module>observer-pattern</module>
     </modules>
 
     <properties>
