@@ -17,6 +17,7 @@
         <module>template-method-pattern</module>
         <module>command-pattern</module>
         <module>observer-pattern</module>
+        <module>mediator-pattern</module>
     </modules>
 
     <properties>
