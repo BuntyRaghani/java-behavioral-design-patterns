@@ -13,3 +13,5 @@ Behavioural patterns are all about the interaction or communication between the 
 | Template Method Pattern | template-method-pattern |
 | Command Pattern | command-pattern |
 | Observer Pattern | observer-pattern |
+| Mediator Pattern | mediator-pattern |
+| Chain of Responsibility Pattern | chain-of-responsibility-pattern |

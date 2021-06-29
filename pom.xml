@@ -18,6 +18,7 @@
         <module>command-pattern</module>
         <module>observer-pattern</module>
         <module>mediator-pattern</module>
+        <module>chain-of-responsibility-pattern</module>
     </modules>
 
     <properties>
